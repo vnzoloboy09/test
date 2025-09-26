@@ -1,0 +1,5 @@
+test_user, securePass123, STORE_MANAGER
+
+Laptop - 2:
+  Laptop - Added (DD - MM - YYYY): 17 - 08 - 2025
+  Laptop - Added (DD - MM - YYYY): 17 - 08 - 2025
